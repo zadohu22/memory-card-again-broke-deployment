@@ -1,6 +1,6 @@
 {
-  "name": "memory-card-deploy",
   "homepage": "http://zadohu22/github.io/memory-card-again-broke-deployment",
+  "name": "memory-card-again-broke-deployment",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
